@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: bhanu-pappala.github.io
+Token: 23dfda872f0fc5b5c7d6006118839b48049f2de048c055de9b56567321a62568
